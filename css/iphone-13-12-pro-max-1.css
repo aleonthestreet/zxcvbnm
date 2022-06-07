@@ -1,0 +1,240 @@
+/* screen - iphone-13-12-pro-max-1 */
+
+.iphone-13-12-pro-max-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 924px;
+  overflow: hidden;
+  width: 428px;
+}
+
+.iphone-13-12-pro-max-1 .overlap-group3 {
+  height: 1505px;
+  margin-left: -60px;
+  margin-top: -48.51px;
+  position: relative;
+  width: 573px;
+}
+
+.iphone-13-12-pro-max-1 .x7-e1-cab37-32-c7-482 {
+  height: 929px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 549px;
+}
+
+.iphone-13-12-pro-max-1 .girl {
+  height: 383px;
+  left: 30px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 542px;
+}
+
+.iphone-13-12-pro-max-1 .dethcoastlinksbg-artboard-1 {
+  height: 1262px;
+  left: 55px;
+  object-fit: cover;
+  position: absolute;
+  top: 243px;
+  width: 438px;
+}
+
+.iphone-13-12-pro-max-1 .dethcoastlogo {
+  height: 230px;
+  left: 113px;
+  object-fit: cover;
+  position: absolute;
+  top: 137px;
+  width: 322px;
+}
+
+.iphone-13-12-pro-max-1 .icons8-bandcamp-480-1 {
+  cursor: pointer;
+  height: 79px;
+  left: 96px;
+  object-fit: cover;
+  position: absolute;
+  top: 310px;
+  transition: all 0.2s ease;
+  width: 79px;
+}
+
+.iphone-13-12-pro-max-1 .icons8-bandcamp-480-1:hover {
+  transform: scale(1.1);
+}
+
+.iphone-13-12-pro-max-1 .icons8-spotify-500 {
+  cursor: pointer;
+  height: 70px;
+  left: 195px;
+  object-fit: cover;
+  position: absolute;
+  top: 314px;
+  transition: all 0.2s ease;
+  width: 70px;
+}
+
+.iphone-13-12-pro-max-1 .icons8-spotify-500:hover {
+  transform: scale(1.1);
+}
+
+.iphone-13-12-pro-max-1 .icons8-music-500 {
+  border-radius: 8px;
+  cursor: pointer;
+  height: 70px;
+  left: 292px;
+  object-fit: cover;
+  position: absolute;
+  top: 314px;
+  transition: all 0.2s ease;
+  width: 70px;
+}
+
+.iphone-13-12-pro-max-1 .icons8-music-500:hover {
+  transform: scale(1.1);
+}
+
+.iphone-13-12-pro-max-1 .soundcloud {
+  cursor: pointer;
+  height: 67px;
+  left: 381px;
+  object-fit: cover;
+  position: absolute;
+  top: 319px;
+  transition: all 0.2s ease;
+  width: 67px;
+}
+
+.iphone-13-12-pro-max-1 .soundcloud:hover {
+  transform: scale(1.1);
+}
+
+.iphone-13-12-pro-max-1 .icon-instagram {
+  cursor: pointer;
+  height: 69px;
+  left: 143px;
+  object-fit: cover;
+  position: absolute;
+  top: 380px;
+  transition: all 0.2s ease;
+  width: 69px;
+}
+
+.iphone-13-12-pro-max-1 .icon-instagram:hover {
+  transform: scale(1.1);
+}
+
+.iphone-13-12-pro-max-1 .tiktok {
+  cursor: pointer;
+  height: 66px;
+  left: 242px;
+  object-fit: cover;
+  position: absolute;
+  top: 383px;
+  transition: all 0.2s ease;
+  width: 66px;
+}
+
+.iphone-13-12-pro-max-1 .tiktok:hover {
+  transform: scale(1.1);
+}
+
+.iphone-13-12-pro-max-1 .icon-twitter {
+  cursor: pointer;
+  height: 67px;
+  left: 338px;
+  object-fit: cover;
+  position: absolute;
+  top: 382px;
+  transition: all 0.2s ease;
+  width: 67px;
+}
+
+.iphone-13-12-pro-max-1 .icon-twitter:hover {
+  transform: scale(1.1);
+}
+
+.iphone-13-12-pro-max-1 .overlap-group {
+  border-radius: 30px;
+  height: 80px;
+  left: 85px;
+  position: absolute;
+  top: 498px;
+  width: 378px;
+}
+
+.iphone-13-12-pro-max-1 .rectangle {
+  background-color: var(--chantilly);
+  border-radius: 30px;
+  cursor: pointer;
+  height: 80px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 378px;
+}
+
+.iphone-13-12-pro-max-1 .rectangle:hover {
+  transform: scale(1.1);
+}
+
+.iphone-13-12-pro-max-1 .title {
+  left: 133px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.iphone-13-12-pro-max-1 .overlap-group1 {
+  border-radius: 30px;
+  height: 80px;
+  left: 85px;
+  position: absolute;
+  top: 632px;
+  width: 378px;
+}
+
+.iphone-13-12-pro-max-1 .shows {
+  cursor: pointer;
+  left: 106px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 20px;
+  white-space: nowrap;
+}
+
+.iphone-13-12-pro-max-1 .overlap-group2 {
+  border-radius: 30px;
+  height: 80px;
+  left: 85px;
+  position: absolute;
+  top: 765px;
+  width: 378px;
+}
+
+.iphone-13-12-pro-max-1 .booking {
+  left: 87px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.iphone-13-12-pro-max-1 .copyright {
+  left: 212px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 953px;
+  white-space: nowrap;
+}

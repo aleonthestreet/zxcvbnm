@@ -1,0 +1,25 @@
+:root { 
+  --chantilly: #fdc7e1;
+  --thunder: #312b2d;
+  --white: #ffffff;
+ 
+  --font-size-l: 50px;
+  --font-size-m: 20px;
+ 
+  --font-family-pvf_clothing-medium: "PVF_Clothing-Medium", Helvetica;
+}
+.pvfclothing-medium-chantilly-20px {
+  color: var(--chantilly);
+  font-family: var(--font-family-pvf_clothing-medium);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.pvfclothing-medium-thunder-50px {
+  color: var(--thunder);
+  font-family: var(--font-family-pvf_clothing-medium);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+}
